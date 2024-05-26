@@ -250,11 +250,15 @@ Special thanks to my mentor and Code Institute for the helpful and intense tutor
 [https://swiperjs.com/](https://swiperjs.com/)
 [https://leafletjs.com/](https://leafletjs.com/)
 
-## Additional Notes
+## Important Note on Repository History (Erroneous Forking)
 
-### Erroneous Forking
+While beginning the project, I mistakenly forked the example template from Code Institute instead of cloning it from [https://github.com/Code-Institute-Org/ci-full-template](https://github.com/Code-Institute-Org/ci-full-template). This is reflected in my project history as it contains initial commits based on the development of the template/environment many months before I began my project.
 
-While beginning the project, I mistakenly forked the example template from Code Institute instead of cloning it from [https://github.com/Code-Institute-Org/ci-full-template](https://github.com/Code-Institute-Org/ci-full-template). This is reflected in my project history as it contains initial commits based on the development of the template/environment many months before I began my project. Sadly, I only noticed this after seeing that my project appears to have contributors. By the time I realized this, I had already made significant progress in the milestone project and it was too late to start afresh with a new and clean repository free of contributor references.
+By the time I realized this, I had already made significant progress in the milestone project and it was too late to start afresh with a new and clean repository free of contributor references.
+
+I consulted my mentor, who advised me to include this information in my README documentation. I also contacted Student Care and reported the issue, but did not receive specific guidance on how to manage it beyond the advice from my mentor.
+
+Please note that the source code for this project is entirely my own work, despite the initial commits reflecting a different start date and the presence of contributor references. 
 
 ## Future Development
 
