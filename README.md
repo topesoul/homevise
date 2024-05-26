@@ -65,7 +65,7 @@ The skeleton of the site is clean and user-focused. Attention is centered on con
 
 Below is a link to the initial draft of the wireframes created for the project, providing an initial conceptual idea of the structure and responsiveness across different devices.
 
-[Homevise Project Wireframes](documentation/Homevise_wireframes.pdf)
+[Homevise Project Wireframes](documentation/homevise-wireframes.pdf)
 
 ## Surface Plane
 
